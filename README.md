@@ -15,6 +15,8 @@ Depth Map generation from 2D image by Google AI
 http://stereo.jpn.org/jpn/stphmkr/google/indexe.html
 
 # Tips
+Add the extension Go Live at Visual Studio, it's easier to see the changes on the code 
+
 If you have problems to use pythord on pip command, 
 download anaconda and do all the possible steps at the anaconda prompt 
 
